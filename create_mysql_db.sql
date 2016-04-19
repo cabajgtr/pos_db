@@ -52,9 +52,9 @@ CREATE TABLE transactions_weekly_pos
 (
    tx_id int not null auto_increment primary key,
    item varchar(10) NOT NULL,
+   week_end_date date NOT NULL,
    customer_id int(10) unsigned NOT NULL,
    pos_year int,
-   week_end_date date,
    units int,
    sales Decimal(19,4),
    inventory_units int,
@@ -83,3 +83,15 @@ CREATE TABLE transactions_weekly_pos
     ON DELETE RESTRICT
 )ENGINE=InnoDB;
 
+#DROP TABLE transactions_weekly_pos_stage;
+CREATE TABLE transactions_weekly_pos_stage
+(
+   item varchar(10),
+   week_end_date date,
+   customer_id int(10) unsigned,
+   pos_year int,
+   units int,
+   sales Decimal(19,4),
+   inventory_units int,
+   inventory_value Decimal(19,4)
+)ENGINE=InnoDB;
