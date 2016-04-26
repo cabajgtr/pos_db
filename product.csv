@@ -1,0 +1,18 @@
+pid,item, item_description, product_h1, product_h2, product_h3, product_h4, product_attr1, product_attr2, product_attr3, product_attr4, valid_from, valid_to, active_flag
+,PF561000,Zik 2.0,CE,audio,Zik2,,black,F,,,2013-01-01,,1
+,PF562001,Zik 3 - Black Overstitch,CE,audio,Zik3,,black,F,,,2013-01-01,,1
+,PF722000,Bebop Quadcopter Drone -,drone,semi-pro,Bebop,,red,F,,,2013-01-01,,1
+,PF722001,Bebop Quadcopter Drone -,drone,semi-pro,Bebop,,blue,F,,,2013-01-01,,1
+,PF722002,Bebop Quadcopter Drone -,drone,semi-pro,Bebop,,yellow,F,,,2013-01-01,,1
+,PF723000,MiniDrone Rolling Spider,drone,toy,Rolling Sp,,White,F,,,2013-01-01,,1
+,PF723001,MiniDrone Rolling Spider,drone,toy,Rolling Sp,,Blue,F,,,2013-01-01,,1
+,PF723002,MiniDrone Rolling Spider,drone,toy,Rolling Sp,,Red,F,,,2013-01-01,,1
+,PF723101,Airborne Night MiniDrone,drone,toy,Airborne C,,blue,F,,,2013-01-01,,1
+,PF723102,Airborne Night MiniDrone,drone,toy,Airborne C,,red,F,,,2013-01-01,,1
+,PF723300,Airborne Cargo MiniDrone,drone,toy,Airborne C,,yellow,F,,,2013-01-01,,1
+,PF726000,Bebop 2 - Red,drone,semi-pro,Bebop2,,red,F,,,2013-01-01,,1
+,PF726003,Bebop 2 - White,drone,semi-pro,Bebop2,,white,F,,,2013-01-01,,1
+,PF726100,Bebop 2 + Black Skycontr,drone,semi-pro,Bebop2,,Red,T,,,2013-01-01,,1
+,PF726103,Bebop 2 + Black Skycontr,drone,semi-pro,Bebop2,,White,T,,,2013-01-01,,1
+,PF900000,Flower Power (brown),CE,flower,Flower Pow,,brown,F,,,2013-01-01,,1
+,PF900001,Flower Power (green),CE,flower,Flower Pow,,green,F,,,2013-01-01,,1
